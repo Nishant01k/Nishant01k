@@ -1,7 +1,16 @@
-<h1 align="center">Hello 👋,<br>     I'm Santosh Kumar Chaudhary.<br>01k</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+
+<h1 align="center">Hello 👋,<br>     I'm Santosh Kumar Chaudhary.</h1>
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=80&duration=4000&lines=01k!" />
+</h1>
+
 
 ###
-
+<h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nishant01k&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Nishant01k&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -58,6 +67,17 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nishant01k/Nishant01k/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <h2> 🌱 My Contributions 🌱 </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Gmail!;I'm+always+down+to+collab+:)">
+</h3>
 
 ###
