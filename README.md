@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 
+
 <h1 align="center">Hello 👋,<br>     I'm Santosh Kumar Chaudhary.</h1>
 
 
@@ -75,6 +76,9 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
+
+
+  [![](https://jitpack.io/v/Nishant01k/Feedback01k-Module.svg)](https://jitpack.io/#Nishant01k/Feedback01k-Module)
 </div>
 
 
