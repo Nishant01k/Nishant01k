@@ -77,13 +77,10 @@
 <div align="center">
   <h2> 🌱 My Contributions 🌱 </h2>
   <br>
-![Snake animation](https://github.com/Nishant01k/Nishant01k/blob/output/github-contribution-grid-snake.svg)
-
-![Snake animation](https://github.com/Nishant01k/Nishant01k/blob/output/github-contribution-grid-snake.svg)
 
 
 <img src="https://raw.githubusercontent.com/Nishant01k/output/snake.svg" alt="Snake animation">
-  <img alt="snake eating my contributions" src="https://github.com/Nishant01k/blob/main/.github/workflow/MAIN.svg">
+  <img alt="snake eating my contributions" src="https://github.com/Nishant01k/Nishant01k/blob/main/.github/workflow/snake.svg">
   
   <br/><br/><br/>
 
