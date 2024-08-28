@@ -77,7 +77,7 @@
 <div align="center">
   <h2> 🌱 My Contributions 🌱 </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/Nishant01k/Nishant01k/blob/main/dist/snake.svg />
+  <img alt="snake eating my contributions" src="https://github.com/Nishant01k/Nishant01k/blob/main/dist/snake.svg">
   
   <br/><br/><br/>
 
