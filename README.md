@@ -77,6 +77,8 @@
 <div align="center">
   <h2> 🌱 My Contributions 🌱 </h2>
   <br>
+
+    <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" / >
   <img alt="snake eating my contributions" src="https://github.com/Nishant01k/Nishant01k/blob/main/.github/workflow/snake.svg">
   
   <br/><br/><br/>
