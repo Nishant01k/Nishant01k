@@ -78,10 +78,7 @@
   <h2> 🌱 My Contributions 🌱 </h2>
   <br>
 
-![snake gif](https://github.com/Nishant01k/Nishant01k/blob/output/github-contribution-grid-snake.gif)
-
-<img src="https://raw.githubusercontent.com/Nishant01k/output/snake.svg" alt="Snake animation">
-  <img alt="snake eating my contributions" src="https://github.com/Nishant01k/Nishant01k/blob/main/.github/workflow/snake.svg">
+  ![Snake animation](https://github.com/Nishant01k/Nishant01k/blob/output/github-contribution-grid-snake.svg)
   
   <br/><br/><br/>
 
