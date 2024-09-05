@@ -2,26 +2,24 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 20 * * *"  # Runs at 20:00 UTC daily
+    - cron: "0 0 * * *"  # Runs at 00:00 UTC every day
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - name: Checkout the repository
+        uses: actions/checkout@v2
 
       - name: Generate Snake
         uses: Platane/snk@v3.2.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: .github/workflows/snake.svg
-          github_user_name: Nishant01k  # Make sure this matches your username
-
+          github_user_name: Nishant01k
+          outputs: dist/snake.svg
 
       - name: Upload Snake
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2
         with:
           name: snake
-          path: .github/workflows/snake.svg
+          path: dist/snake.svg
