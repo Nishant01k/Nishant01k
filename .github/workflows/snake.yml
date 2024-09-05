@@ -16,10 +16,10 @@ jobs:
         uses: Platane/snk@v3.2.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/snake.svg
+          output: .github/workflows/snake.svg
 
       - name: Upload Snake
         uses: actions/upload-artifact@v3
         with:
           name: snake
-          path: dist/snake.svg
+          path: .github/workflows/snake.svg
