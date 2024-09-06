@@ -97,6 +97,8 @@
 <a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <!-- my-badges end -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?Nishant01k=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 
