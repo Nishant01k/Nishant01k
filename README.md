@@ -84,6 +84,10 @@
 
 
   [![](https://jitpack.io/v/Nishant01k/Feedback01k-Module.svg)](https://jitpack.io/#Nishant01k/Feedback01k-Module)
+
+
+  <!-- my-badges start -->
+<!-- my-badges end -->
 </div>
 
 
