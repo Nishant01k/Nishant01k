@@ -12,7 +12,7 @@ jobs:
   my-badges:
     runs-on: ubuntu-latest
     steps:
-      - name: Update My Badges
+      - name: Update My Badges <nishant01k>
         run: npx update-my-badges ${{github.repository_owner}}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
