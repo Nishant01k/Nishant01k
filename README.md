@@ -87,7 +87,7 @@
 
 
   <!-- my-badges start -->
-<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
+
 
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;update&quot;." title="My favorite word is &quot;update&quot;." width="64"></a>
@@ -97,7 +97,6 @@
 <a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <!-- my-badges end -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?Nishant01k=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
