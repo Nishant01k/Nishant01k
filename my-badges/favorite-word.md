@@ -4,11 +4,11 @@
 
 My favorite commit message words are:
 
-1. update (used 67 times)
-2. readme.md (used 35 times)
+1. update (used 72 times)
+2. readme.md (used 41 times)
 3. snake.yml (used 29 times)
-4. cname (used 17 times)
-5. create (used 16 times)
+4. create (used 20 times)
+5. cname (used 17 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
