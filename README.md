@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hello 👋,<br>     I'm Santosh Kumar Chaudhary.</h1>
+<h1 align="center">Hello 👋,<br>     I'm Santosh Kumar Chaudhary</h1>
 
 
 <h1 align="center">
