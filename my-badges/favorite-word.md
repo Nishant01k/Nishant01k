@@ -8,7 +8,7 @@ My favorite commit message words are:
 2. readme.md (used 55 times)
 3. snake.yml (used 29 times)
 4. create (used 22 times)
-5. delete (used 15 times)
+5. delete (used 16 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
